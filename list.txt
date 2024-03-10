@@ -1,0 +1,11 @@
+Food:
+Chicken
+Potato
+Bread
+chujowizna
+Sweets:
+Candy
+Lolipop
+chujowizna
+Sery:
+Gouda
